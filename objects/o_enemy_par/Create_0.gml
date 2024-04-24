@@ -10,3 +10,4 @@ path = path_add();
 
 calc_path_delay = 30;
 calc_path_timer = irandom(60);
+
